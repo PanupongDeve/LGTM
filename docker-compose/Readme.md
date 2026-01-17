@@ -1,0 +1,1 @@
+https://www.hostinger.com/tutorials/how-to-set-up-lgtm-stack?utm_campaign=Generic-Tutorials-DSA-t2|NT:Se|LO:Other-ASIA&utm_medium=ppc&gad_source=1&gad_campaignid=21767595091&gbraid=0AAAAADMy-hYLiI8_JYx8ZkG9gBXylMB7D&gclid=CjwKCAiA4KfLBhB0EiwAUY7GAd0LytrU7DpkHY1gMNWDlL3246jf7kaspGm2AepjOz_xsrVHBqAwYxoCTCwQAvD_BwE
