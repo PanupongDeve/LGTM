@@ -1,0 +1,5 @@
+adminPassword: 1q2w3e4r5t6y # เปลี่ยนรหัสผ่านนี้!
+persistence:
+  enabled: true
+  storageClassName: local-path # เปลี่ยนตาม StorageClass ใน cluster ของคุณ
+  size: 5Gi

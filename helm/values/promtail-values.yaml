@@ -1,0 +1,9 @@
+config:
+  clients:
+    - url: http://loki-gateway.lgtm.svc.cluster.local/loki/api/v1/push
+      # หากคุณเปิด auth_enabled: true ใน Loki ต้องใส่ tenant_id ด้วย
+      tenant_id: 1 
+
+# ตั้งค่าเพื่อให้ Promtail อ่าน Log จาก Kubernetes pods อัตโนมัติ
+extraArgs:
+  - -client.external-labels=hostname=$(HOSTNAME)
